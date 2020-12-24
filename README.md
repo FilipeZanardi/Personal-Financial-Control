@@ -9,5 +9,3 @@ Web application developed on the IGTI fullstack developer bootcamp for Personal 
 - MongoDB;
 - Mongoose;
 
-## Funcionamento:
-Acesse a aplicação em https://waldow-desafio-final.herokuapp.com/.
